@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p001",
+    "name": "台灣鳳梨酥禮盒",
+    "category": "餅乾區",
+    "price": 5.5,
+    "stock": 30,
+    "description": "台灣人氣點心，適合自用與送禮。",
+    "image": "",
+    "active": true,
+    "featured": true,
+    "createdAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "p002",
+    "name": "經典牛肉泡麵",
+    "category": "泡麵、麵食區",
+    "price": 2.2,
+    "stock": 45,
+    "description": "熟悉的台灣味，宵夜與正餐都方便。",
+    "image": "",
+    "active": true,
+    "featured": true,
+    "createdAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "p003",
+    "name": "台灣茶飲 600ml",
+    "category": "飲料區",
+    "price": 1.5,
+    "stock": 80,
+    "description": "清爽順口，適合柬埔寨炎熱天氣。",
+    "image": "",
+    "active": true,
+    "featured": true,
+    "createdAt": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "p004",
+    "name": "生活衛生紙家庭包",
+    "category": "生活用品區",
+    "price": 4.8,
+    "stock": 20,
+    "description": "家庭常備生活用品。",
+    "image": "",
+    "active": true,
+    "featured": false,
+    "createdAt": "2026-05-04T00:00:00.000Z"
+  }
+]
